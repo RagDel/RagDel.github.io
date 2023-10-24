@@ -20,17 +20,17 @@ paginate:            7
 
 # About/contact
 author:
-  name:              Rizky Ariestiyansyah
-  url:               https://twitter.com/ariestiyansyah
-  email:             ariestiyansyah.rizky@gmail.com
+  name:              Tilemachos Tragakis	
+  url:               
+  email:             tilemaxostr@gmail.com
 
 # Custom vars
 version:             2.0
 
 # Social Media
-github:				http://github.com/ariestiyansyah
-twitter:			http://twitter.com/ariestiyansyah
-disqus:             testnaringu
+github:				
+twitter:			
+disqus:             
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
